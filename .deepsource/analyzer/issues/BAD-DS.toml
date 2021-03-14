@@ -1,0 +1,7 @@
+title = "Wrong spelling of DeepSource"
+category = "antipattern"
+severity = "major"
+description = """
+DeepSource should be spelled with a the letters `D` and `S` in upper case.
+"""
+recommended = true
